@@ -15,7 +15,7 @@ Sign in to Xbox Live with OAUTH2
 
 import requests
 
-CLIENT_ID = "00000000-0000-0000-0000-000000000000"
+CLIENT_ID = "772cccd8-54f6-4fce-858b-645fbabf1bed"
 REDIRECT_URI = "https://localhost/oauth_success"
 
 
